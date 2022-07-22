@@ -8,7 +8,7 @@ url="https://github.com/zicstardust/Minecraft-Backup-Gdrive"
 license=('none')
 depends=('tar' 'bash' 'awk')
 source=("minebkgdrive::https://github.com/zicstardust/Minecraft-Backup-Gdrive/releases/download/${pkgver}/minebkgdrive")
-sha256sums=('27ad4f94c12c810f4121cc9b8991bd63ec2bead14cbc3c0089762383c5ba890c')
+sha256sums=('b0f3db71ecf353bc65306a1b592a8b42fb1f17ffc78e338af229d160215ff24a')
 options=(!strip)
 
 package() {
